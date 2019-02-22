@@ -1,7 +1,7 @@
 <html>
-<body style="background-color:blue;">
+<body style="background-color:powderblue;">
 <h2>Jenkins Successfully Deloyed War file in Tomcat!</h2>
-<h2>I have done changes<h2>
-<h2>i have changed colour to blue</h2>
+<br>
+<h3>jenkins is the best integration tool </h3>
 </body>
 </html>
